@@ -5,7 +5,7 @@ from os import listdir, path
 bot_token = '<Bot token here>'
 bot = discord.Bot()
 
-### Optional: add your server to server the "servers" list
+### Optional: add your server to the "servers" list
 #servers = [<Your server ID. nr >]
 servers = None
 
